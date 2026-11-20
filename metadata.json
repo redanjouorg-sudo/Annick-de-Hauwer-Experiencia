@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Gaze VR — 360° Experience",
+  "description": "Lightweight WebXR 360-degree voxel gaze-interaction experience for mobile VR headsets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
